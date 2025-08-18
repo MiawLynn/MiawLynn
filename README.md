@@ -1,4 +1,4 @@
-# こんにちわ、みなさん, Miaw here 👋
+# Miaw here
 Just an ordinary people who loves to be a **UI/UX Designer**, **Front-End Developer**, and **Game Developer**.
 
 ## 🌟 Things
