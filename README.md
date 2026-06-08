@@ -34,4 +34,19 @@ Just an ordinary people who loves to be a **UI/UX Designer**, **Front-End but Fu
 </p>
 
 ## 🔭 Activity
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiawLynn&theme=onedark)
+![GitHub Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MiawLynn&theme=default)
+
+<table>
+  <tr>
+    <td>
+      <img 
+        src="https://my-readme-stats.vercel.app/api?username=MiawLynn&show_icons=true&count_private=true&cache_seconds=3600" 
+        alt="GitHub stats" />
+    </td>
+    <td>
+      <img 
+        src="https://my-readme-stats.vercel.app/api/top-langs/?username=MiawLynn&layout=compact&langs_count=6&count_private=true&cache_seconds=3600" 
+        alt="Top Languages" />
+    </td>
+  </tr>
+</table>
